@@ -1,5 +1,5 @@
 package classTestNG;
 
-public class any {
+public class NewClass {
 
 }
